@@ -601,14 +601,14 @@ export const achievements = [
     org: "IIIT Kottayam",
     blurb:
       "For building and maintaining the official site for the BDA 2025 Workshop at the 13th International Conference on Big Data & AI. The committee cited creativity, timely delivery and quality.",
-    href: "https://drive.google.com/file/d/1xs37IoF2BxzkTM076_Qoe8xF3CTB4Ot3/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1ECq9ncYLbou5VDx5jyS9uHxShdCcJKZ-/view?usp=sharing",
   },
   {
     title: "98.51 percentile nationally",
     org: "Naukri Young Turks",
     blurb:
       "Scored in the 98.51st percentile nationally on problem solving and analytical reasoning.",
-    href: "https://drive.google.com/file/d/1ECq9ncYLbou5VDx5jyS9uHxShdCcJKZ-/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1xs37IoF2BxzkTM076_Qoe8xF3CTB4Ot3/view?usp=sharing",
   },
   {
     title: "250+ problems solved",
